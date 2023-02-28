@@ -1,4 +1,4 @@
-# II-Planner
+# Path Planning for Parking of Car-like Vehicles using Switched Heuristic Functions of Reed-Shepp Curves
 > Realize non-holonomic constrained vehicle planning in narrow convex space. 
 
 ## Installation
